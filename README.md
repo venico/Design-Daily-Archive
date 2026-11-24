@@ -2,7 +2,7 @@
 
 完整中文正文、来源、期刊关系及原始图片只保存在本仓库 Releases。下载 ZIP，解压后打开 index.html 本地阅读。视频与原文链接需要联网。
 
-共17批、1885篇；每个 ZIP 含逐文件校验清单，附件 SHA256 列在 archive-index.json。归档仓库不启用 GitHub Pages。
+共18批、1957篇；每个 ZIP 含逐文件校验清单，附件 SHA256 列在 archive-index.json。归档仓库不启用 GitHub Pages。
 
 | 日期 | 篇数 | 大小 | 下载 |
 |---|---:|---:|---|
@@ -23,3 +23,4 @@
 | 2026-10-24 至 2026-10-24 | 87 | 466.8 MB | [完整图文 ZIP](https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-24_2026-10-24/2026-10-24_2026-10-24.zip) |
 | 2026-10-25 至 2026-10-25 | 33 | 157.3 MB | [完整图文 ZIP](https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-25_2026-10-25/2026-10-25_2026-10-25.zip) |
 | 2026-10-26 至 2026-10-26 | 29 | 133.5 MB | [完整图文 ZIP](https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-26_2026-10-26/2026-10-26_2026-10-26.zip) |
+| 2026-10-27 至 2026-10-27 | 72 | 405.4 MB | [完整图文 ZIP](https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-27_2026-10-27/2026-10-27_2026-10-27.zip) |
